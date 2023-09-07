@@ -1,1 +1,1 @@
-# web-_ja_hybriditeknologiat_mobiiliohjelmoinnissa_teht1
+Viikkotehtävä 1.Tavoitesyke
